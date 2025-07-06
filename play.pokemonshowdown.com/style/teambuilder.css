@@ -229,9 +229,9 @@
 	position: absolute;
 	pointer-events: none;
 
-	border: 1px solid #4488CC;
+	border: 1px solid #F25B00;
 	border-radius: 3px;
-	box-shadow: inset 0px 1px 2px #D2D2D2, 0px 0px 5px #66AADD;
+	box-shadow: inset 0px 1px 2px #D2D2D2, 0px 0px 5px #F25B00;
 	background: transparent;
 }
 
