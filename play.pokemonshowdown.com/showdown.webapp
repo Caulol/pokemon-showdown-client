@@ -1,7 +1,7 @@
 {
   "version": "0.1",
-  "name": "Pokemon Showdown",
-  "description": "Play Pokemon battles online",
+  "name": "Pokemon Story Showdown",
+  "description": "Play Pokemon battles online and Roleplay!",
   "launch_path": "/",
   "icons": {
     "16": "/favicon-16.png",
