@@ -21,7 +21,7 @@ Config.defaultserver = {
 	id: 'showdown',
 	host: 'sim3.psim.us',
 	port: 443,
-	httpport: 8000,
+	httpport: 6996,
 	altport: 80,
 	registered: true
 };
